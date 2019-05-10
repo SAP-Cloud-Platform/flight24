@@ -1,0 +1,15 @@
+CLASS /dmo/bp_bookingsupplement_u24 DEFINITION
+  PUBLIC
+  ABSTRACT
+  FINAL
+  FOR BEHAVIOR OF /dmo/i_travel_u24 .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS /dmo/bp_bookingsupplement_u24 IMPLEMENTATION.
+ENDCLASS.
